@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1684156271234",
+    "title": "Complete Math Assignment",
+    "description": "Finish problems 1-10 in Chapter 5",
+    "date": "2023-05-20",
+    "time": "14:00",
+    "priority": "high",
+    "completed": false,
+    "recurring": false,
+    "userId": "user123",
+    "createdAt": "2023-05-15T10:24:31.234Z"
+  },
+  {
+    "id": "1684156389012",
+    "title": "Study for Physics Exam",
+    "description": "Focus on mechanics and thermodynamics",
+    "date": "2023-05-22",
+    "time": "09:00",
+    "priority": "high",
+    "completed": false,
+    "recurring": false,
+    "userId": "user123",
+    "createdAt": "2023-05-15T10:26:29.012Z"
+  },
+  {
+    "id": "1684156489567",
+    "title": "Review Chemistry Notes",
+    "description": "Go through Chapter 7 and 8",
+    "date": "2023-05-21",
+    "time": "16:00",
+    "priority": "medium",
+    "completed": false,
+    "recurring": true,
+    "recurringType": "weekly",
+    "userId": "user123",
+    "createdAt": "2023-05-15T10:28:09.567Z"
+  }
+] 
