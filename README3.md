@@ -71,9 +71,6 @@ node server.js
 - The backend provides RESTful APIs for each feature
 - File-based storage allows for simple deployment without database setup
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 
