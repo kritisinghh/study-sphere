@@ -108,10 +108,3 @@ You can customize the application by:
 
 The application is designed to work on modern browsers that support ES6+ features. For optimal experience, use the latest version of Chrome, Firefox, Edge, or Safari.
 
-## License
-
-This project is open-source and available for personal and educational use.
-
-## Contact
-
-For questions, suggestions, or contributions, please create an issue in this repository. 
